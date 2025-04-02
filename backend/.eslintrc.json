@@ -1,0 +1,30 @@
+
+{
+    "parser": "@typescript-eslint/parser",
+    "parserOptions": {
+      "project": "**/tsconfig.json"
+    },
+    "extends": ["airbnb-base", "prettier"],
+    "plugins": ["prettier", "@typescript-eslint"],
+    "rules": {
+      "prettier/prettier": ["error"],
+      "import/extensions": "off",
+      "@typescript-eslint/no-explicit-any": "off",
+      "import/no-unresolved": "off",
+      "import/prefer-default-export": "off",
+      "no-unused-vars": [
+        "error",
+        {
+          "vars": "all",
+          "args": "none",
+          "ignoreRestSiblings": true,
+          "argsIgnorePattern": "^data$"
+        }
+      ],
+      "class-methods-use-this": "off",
+      "no-useless-constructor": "off",
+      "max-classes-per-file": "off",
+      "object-shorthand": "off"
+    }
+  }
+  

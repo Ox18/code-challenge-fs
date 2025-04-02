@@ -1,0 +1,64 @@
+[{
+  
+  "call_id": "67eda6d16bf03d62960d349c",
+  "type": "call_initiated",
+  "metadata": {
+    "type": "video",
+    "queue_id": "67ea1dabc51f501686a05b55"
+  },
+  "timestamp": {
+    "$date": "2025-04-02T21:06:25.737Z"
+  }
+},
+{
+  "call_id": "67eda6d16bf03d62960d349c",
+  "type": "call_routed",
+  "metadata": {
+    "agent_id": "67eda6a76bf03d62960d349b",
+    "routing_time": 0
+  },
+  "timestamp": {
+    "$date": "2025-04-02T21:06:25.755Z"
+  }
+},
+{
+  "call_id": "67eda6d16bf03d62960d349c",
+  "type": "call_answered",
+  "metadata": {
+    "agent_id": "67eda6a76bf03d62960d349b"
+  },
+  "timestamp": {
+    "$date": "2025-04-02T21:06:27.323Z"
+  }
+},
+{
+  "call_id": "67eda6d16bf03d62960d349c",
+  "type": "hold",
+  "metadata": {
+    "hold_duration": 1743627991518
+  },
+  "timestamp": {
+    "$date": "2025-04-02T21:06:31.518Z"
+  }
+},
+{
+  "call_id": "67eda6d16bf03d62960d349c",
+  "type": "hold",
+  "metadata": {
+    "hold_duration": null
+  },
+  "timestamp": {
+    "$date": "2025-04-02T21:06:32.111Z"
+  }
+},
+{
+  "call_id": "67eda6d16bf03d62960d349c",
+  "type": "call_ended",
+  "metadata": {
+    "end_reason": "completed",
+    "duration": 7
+  },
+  "timestamp": {
+    "$date": "2025-04-02T21:06:33.279Z"
+  }
+}]

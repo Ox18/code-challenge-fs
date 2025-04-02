@@ -1,0 +1,64 @@
+[{
+  "queue_id": "67ea1dabc51f501686a05b55",
+  "start_time": {
+    "$date": "2025-04-02T20:28:58.432Z"
+  },
+  "end_time": null,
+  "status": "waiting"
+},
+{
+  "queue_id": "67ea1dabc51f501686a05b55",
+  "start_time": {
+    "$date": "2025-04-02T20:29:39.523Z"
+  },
+  "end_time": null,
+  "status": "waiting"
+},
+{
+  "queue_id": "67ea1dabc51f501686a05b55",
+  "start_time": {
+    "$date": "2025-04-02T20:31:06.083Z"
+  },
+  "end_time": null,
+  "status": "waiting"
+},
+{
+  "queue_id": "67ea1dabc51f501686a05b55",
+  "start_time": {
+    "$date": "2025-04-02T20:32:08.904Z"
+  },
+  "end_time": {
+    "$date": "2025-04-02T20:32:29.904Z"
+  },
+  "status": "ended"
+},
+{
+  "queue_id": "67ea1dabc51f501686a05b55",
+  "start_time": {
+    "$date": "2025-04-02T20:33:09.400Z"
+  },
+  "end_time": {
+    "$date": "2025-04-02T20:33:27.400Z"
+  },
+  "status": "ended"
+},
+{
+  "queue_id": "67ea1dabc51f501686a05b55",
+  "start_time": {
+    "$date": "2025-04-02T21:06:25.731Z"
+  },
+  "end_time": {
+    "$date": "2025-04-02T21:06:32.731Z"
+  },
+  "status": "ended"
+},
+{
+  "queue_id": "67ea1dabc51f501686a05b55",
+  "start_time": {
+    "$date": "2025-04-02T21:06:55.643Z"
+  },
+  "end_time": {
+    "$date": "2025-04-02T21:07:00.643Z"
+  },
+  "status": "ended"
+}]

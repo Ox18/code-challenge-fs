@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "outDir": "dist",
+    "module": "commonjs",
+    "target": "es2019",
+    "esModuleInterop": true,
+    "sourceMap": false,
+    "rootDir": "./src",
+    "baseUrl": "src",
+    "experimentalDecorators": true,
+    "resolveJsonModule": true,
+    "strict": true,
+    "strictFunctionTypes": true,
+  },
+  "include": ["src"],
+  "exclude": [
+    "node_modules",
+    "dist",
+    "test"
+  ]
+}
