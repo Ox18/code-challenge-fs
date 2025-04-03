@@ -1,10 +1,6 @@
-
-```markdown
 # 🩺 Voycelink – Reto Técnico
 
 Este proyecto consiste en una plataforma de comunicación en tiempo real entre clientes y doctores/trabajadores, implementando llamadas, eventos auditables y métricas SLA. Está compuesto por un **frontend (Next.js)**, un **backend (Express.js + Socket.io)** y una **base de datos MongoDB**. Todo el entorno se puede levantar fácilmente usando Docker.
-
----
 
 ## 🚀 Cómo levantar el proyecto
 
@@ -13,11 +9,11 @@ Este proyecto consiste en una plataforma de comunicación en tiempo real entre c
 - Tener Docker y Docker Compose instalados
 - Tener Node.js (si querés correrlo local sin Docker)
 
----
 
 ### 🔧 Usando Docker (recomendado)
 
 Levantar los servicios:
+
 
 ```bash
 docker-compose up --build
