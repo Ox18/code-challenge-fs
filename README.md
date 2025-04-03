@@ -89,4 +89,3 @@ project-root/
 ├── mongo-init/       # Scripts de inicialización de MongoDB (opcional)
 ├── docker-compose.yml
 ```
-```
